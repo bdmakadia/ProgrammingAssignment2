@@ -1,4 +1,4 @@
-##Caching the invertible of matrix
+##Caching the invertible matrix
 ##makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse.
 ##The following function creates makeCacheMatrix which consists of list containing functions to set/get/setinverse/getinverse various values of matrix
 ## For the following function to work matrix should be invertible
